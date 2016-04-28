@@ -44,3 +44,7 @@ ISC © [infeng](https://github.com/infeng)
 [daviddm-url]: https://david-dm.org/infeng/generator-react-redux-typescript
 [coveralls-image]: https://coveralls.io/repos/infeng/generator-react-redux-typescript/badge.svg
 [coveralls-url]: https://coveralls.io/r/infeng/generator-react-redux-typescript
+
+# generator-react-redux-weback-typescript
+Yeoman generator for creating an react application,using typescript and webpack
+
