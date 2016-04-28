@@ -1,0 +1,39 @@
+{
+  "name": "generator-react-redux-typescript",
+  "version": "1.0.0",
+  "description": "Yeoman generator for creating an react application,using react, redux and typescript.",
+  "homepage": "https://github.com/infeng/generator-react-redux-weback-typescript.git",
+  "author": "infeng",
+  "files": [
+    "generators"
+  ],
+  "main": "index.js",
+  "keywords": [
+    "yeoman-generator",
+    "react",
+    "redux",
+    "typescript"
+  ],
+  "scripts": {
+    "test": "gulp",
+    "prepublish": "gulp prepublish"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^0.21.1",
+    "chalk": "^1.0.0",
+    "yosay": "^1.0.2"
+  },
+  "devDependencies": {
+    "yeoman-assert": "^2.0.0",
+    "gulp": "^3.6.0",
+    "gulp-eslint": "^1.0.0",
+    "gulp-exclude-gitignore": "^1.0.0",
+    "gulp-istanbul": "^0.9.0",
+    "gulp-mocha": "^2.0.0",
+    "gulp-plumber": "^1.0.0",
+    "gulp-nsp": "^2.1.0",
+    "gulp-coveralls": "^0.1.0"
+  },
+  "repository": "infeng/generator-react-redux-typescript"
+}
