@@ -18,7 +18,7 @@ yo react-redux-typescript
 
 After generating your project, cd into it, install TypeScript definitions and compile TypeScript files into JavaScript files:
 ```
-typings install
+typings install -G
 ```
 ```
 npm link typescvript
